@@ -1,9 +1,9 @@
-# 🚀 C Piscine Projects - 42 School
+# 🚀 C Piscina Projects - 42 School
 
 ## 📌 Descripción
 
-Este repositorio contiene una colección de proyectos realizados durante la **Piscine** de la escuela 42.  
-La Piscine es un **bootcamp intensivo de 26 días**, centrado en la programación en **C**, diseñado para enseñar los fundamentos de este lenguaje y preparar a los estudiantes para el programa principal de 42.
+Este repositorio contiene una colección de proyectos realizados durante la **Piscina** de la escuela 42.  
+La Piscina es un **bootcamp intensivo de 26 días**, centrado en la programación en **C**, diseñado para enseñar los fundamentos de este lenguaje y preparar a los estudiantes para el programa principal de 42.
 
 Cada proyecto aborda un conjunto de conceptos clave en C, desde lo más básico hasta temas más avanzados como **memoria dinámica**.
 
